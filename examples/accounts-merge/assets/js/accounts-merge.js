@@ -1,5 +1,4 @@
 /** 
-Author : Build Rise Shine 
 
 Created : 2023 
 
@@ -20,7 +19,6 @@ Description : Write an algorithm to merge the given accounts
       each account is the name, and the rest of the elements are emails in sorted order. The accounts 
       themselves can be returned in any order.
 
-(c) Copyright by BRS Studio. 
 **/
 
 // Algorithm
