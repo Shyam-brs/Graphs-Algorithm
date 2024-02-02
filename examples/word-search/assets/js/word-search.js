@@ -1,5 +1,4 @@
 /** 
- Author : Build Rise Shine 
 
 Created : 2023 
 
@@ -12,7 +11,6 @@ Description : Write an algorithm to find if the given word exists or not in the 
     The word can be constructed from letters of sequentially adjacent cells, where adjacent cells 
     are horizontally or vertically neighboring. The same letter cell may not be used more than once.
 
-(c) Copyright by BRS Studio. 
 **/
 
 // Algorithm
@@ -64,8 +62,8 @@ const word = "ABCCED";
 const results = checkExisting(board, word);
 if (results) {
   console.log(`The given word ${word} exists in the board`);
-}else{
-    console.log(`The given word ${word} does not exists in the board`);
+} else {
+  console.log(`The given word ${word} does not exists in the board`);
 }
 
 // BIG O Notation
